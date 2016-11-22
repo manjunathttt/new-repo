@@ -1,2 +1,5 @@
+com\niit\onlineshopping\dao\CustomerDAO.class
+com\niit\onlineshopping\model\Customer.class
 com\niit\onlineshopping\controller\HomeController.class
+com\niit\onlineshopping\dao\CustomerDAOImpl.class
 com\niit\onlineshopping\config\ApplicationContext.class

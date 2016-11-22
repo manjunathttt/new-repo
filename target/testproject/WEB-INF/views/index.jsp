@@ -1,5 +1,11 @@
 <html>
 <body>
-<h2>Hello World! Test Project - Online Shop.....!!!!!! - One more go.....</h2>
+<h2>CUSTOMER DETAILS..... ADD..... DELETE..... EDIT...... </h2>
+
+<hr>
+<br>
+
+<a href="customer">VIEW CUSTOMER</a>
+
 </body>
 </html>
